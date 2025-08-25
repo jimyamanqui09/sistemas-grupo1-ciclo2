@@ -42,7 +42,7 @@ public class AsistenciaApplication extends Application {
 	parent = loader.load();
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[]args) {
 
 		//SpringApplication.run(AsistenciaApplication.class, args);
 		launch(args);
