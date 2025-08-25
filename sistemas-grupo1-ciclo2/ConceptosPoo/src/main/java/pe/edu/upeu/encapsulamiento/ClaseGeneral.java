@@ -4,7 +4,7 @@ public class ClaseGeneral {
 
 public static void probarJugador(){
     Jugador jugador = new Jugador();
-    jugador.setNombre("Jugador");
+    jugador.setNombre("cristiano ronaldo");
     jugador.setApellido("dos santos aveiro");
     jugador.setEdad(48);
     jugador.setPosicion("delantero");
