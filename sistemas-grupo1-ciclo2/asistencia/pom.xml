@@ -11,7 +11,8 @@
 	<groupId>pe.edu.upeu</groupId>
 	<artifactId>asistencia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>asistencia</name>
+    <packaging>pom</packaging>
+    <name>asistencia</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -20,7 +21,10 @@
 	<developers>
 		<developer/>
 	</developers>
-	<scm>
+    <modules>
+        <module>conceptos.poo</module>
+    </modules>
+    <scm>
 		<connection/>
 		<developerConnection/>
 		<tag/>
